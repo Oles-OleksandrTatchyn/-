@@ -1,0 +1,164 @@
+
+  Round 1:
+
+test3 hits test4 for 1 damage.
+test4 hits test1 for 5 damage.
+test4 Current Poison Level: 5
+test1 Current Poison Level: 5
+test4 Current Health: 99
+test1 Current Health: 95
+test1 hits test4 for 8 damage.
+test5 hits test3 for 1 damage.
+test4 Current Poison Level: 10
+test3 Current Poison Level: 5
+test4 Current Health: 91
+test3 Current Health: 99
+
+  *End of round*
+
+test3 was damaged by poison for 5 health.
+test1 was damaged by poison for 5 health.
+test2 was damaged by poison for 0 health.
+test4 was damaged by poison for 10 health.
+test5 was damaged by poison for 0 health.
+test3 regenerated for 5 health.
+test1 regenerated for 5 health.
+test2 regenerated for 5 health.
+test4 regenerated for 5 health.
+test5 regenerated for 5 health.
+
+  Round 2:
+
+test1 hits test4 for 10 damage.
+test5 hits test3 for 10 damage.
+test4 Current Poison Level: 15
+test3 Current Poison Level: 10
+test4 Current Health: 76
+test3 Current Health: 89
+test2 hits test4 for 10 damage.
+test4 hits test1 for 8 damage.
+test4 Current Poison Level: 20
+test1 Current Poison Level: 10
+test4 Current Health: 66
+test1 Current Health: 87
+
+  *End of round*
+
+test1 was damaged by poison for 10 health.
+test2 was damaged by poison for 0 health.
+test3 was damaged by poison for 10 health.
+test5 was damaged by poison for 0 health.
+test4 was damaged by poison for 20 health.
+test1 regenerated for 5 health.
+test2 regenerated for 5 health.
+test3 regenerated for 5 health.
+test5 regenerated for 5 health.
+test4 regenerated for 5 health.
+
+  Round 3:
+
+test3 hits test4 for 4 damage.
+test4 hits test3 for 10 damage.
+test4 Current Poison Level: 25
+test3 Current Poison Level: 15
+test4 Current Health: 47
+test3 Current Health: 74
+test2 hits test5 for 0 damage.
+test5 hits test1 for 3 damage.
+test5 Current Poison Level: 5
+test1 Current Poison Level: 15
+test5 Current Health: 110
+test1 Current Health: 79
+
+  *End of round*
+
+test3 was damaged by poison for 15 health.
+test2 was damaged by poison for 0 health.
+test1 was damaged by poison for 15 health.
+test4 was damaged by poison for 25 health.
+test5 was damaged by poison for 5 health.
+test3 regenerated for 5 health.
+test2 regenerated for 5 health.
+test1 regenerated for 5 health.
+test4 regenerated for 5 health.
+test5 regenerated for 5 health.
+
+  Round 4:
+
+test3 hits test4 for 3 damage.
+test4 hits test2 for 7 damage.
+test4 Current Poison Level: 30
+test2 Current Poison Level: 5
+test4 Current Health: 24
+test2 Current Health: 108
+test1 hits test5 for 9 damage.
+test5 hits test3 for 7 damage.
+test5 Current Poison Level: 10
+test3 Current Poison Level: 20
+test5 Current Health: 101
+test3 Current Health: 57
+
+  *End of round*
+
+test3 was damaged by poison for 20 health.
+test1 was damaged by poison for 15 health.
+test2 was damaged by poison for 5 health.
+test4 was damaged by poison for 30 health.
+test5 was damaged by poison for 10 health.
+test3 regenerated for 5 health.
+test1 regenerated for 5 health.
+test2 regenerated for 5 health.
+test4 regenerated for 5 health.
+test5 regenerated for 5 health.
+
+  Round 5:
+
+test1 hits test4 for 8 damage.
+test4 hits test3 for 10 damage.
+test4 Current Poison Level: 35
+test3 Current Poison Level: 25
+test4 Current Health: -9
+test3 Current Health: 32
+test4 is dead.
+test2 hits test5 for 3 damage.
+test5 hits test2 for 4 damage.
+test5 Current Poison Level: 15
+test2 Current Poison Level: 10
+test5 Current Health: 93
+test2 Current Health: 104
+
+  *End of round*
+
+test2 was damaged by poison for 10 health.
+test3 was damaged by poison for 25 health.
+test4 was damaged by poison for 35 health.
+test5 was damaged by poison for 15 health.
+test2 regenerated for 5 health.
+test3 regenerated for 5 health.
+test4 regenerated for 5 health.
+test5 regenerated for 5 health.
+
+  Round 6:
+
+test2 hits test4 for 9 damage.
+test4 hits test3 for 8 damage.
+test4 Current Poison Level: 40
+test3 Current Poison Level: 30
+test4 Current Health: -48
+test3 Current Health: 4
+test4 is dead.
+test3 hits test4 for 1 damage.
+test5 hits test3 for 1 damage.
+test4 Current Poison Level: 45
+test3 Current Poison Level: 35
+test4 Current Health: -49
+test3 Current Health: 3
+test4 is dead.
+
+  *End of round*
+
+test4 was damaged by poison for 45 health.
+test5 was damaged by poison for 15 health.
+test4 regenerated for 5 health.
+test5 regenerated for 5 health.
+Team 2 wins!

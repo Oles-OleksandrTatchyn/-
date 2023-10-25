@@ -1,0 +1,80 @@
+
+  Round 1:
+
+test3 hits test5 for 4 damage.
+test5 hits test3 for 5 damage.
+test3 Current Poison Level: 5
+test5 Current Poison Level: 5
+test3 Current Health: 90
+test5 Current Health: 91
+test3 regenerated for 5 health.
+test5 regenerated for 5 health.
+test3 Health: 95
+test5 Health: 96
+
+  Round 2:
+
+test3 hits test5 for 3 damage.
+test5 hits test3 for 4 damage.
+test3 Current Poison Level: 10
+test5 Current Poison Level: 10
+test3 Current Health: 81
+test5 Current Health: 83
+test3 regenerated for 5 health.
+test5 regenerated for 5 health.
+test3 Health: 86
+test5 Health: 88
+
+  Round 3:
+
+test3 hits test5 for 0 damage.
+test5 hits test3 for 6 damage.
+test3 Current Poison Level: 15
+test5 Current Poison Level: 15
+test3 Current Health: 65
+test5 Current Health: 73
+test3 regenerated for 5 health.
+test5 regenerated for 5 health.
+test3 Health: 70
+test5 Health: 78
+
+  Round 4:
+
+test3 hits test5 for 0 damage.
+test5 hits test3 for 0 damage.
+test3 Current Poison Level: 20
+test5 Current Poison Level: 20
+test3 Current Health: 50
+test5 Current Health: 58
+test3 regenerated for 5 health.
+test5 regenerated for 5 health.
+test3 Health: 55
+test5 Health: 63
+
+  Round 5:
+
+test3 hits test5 for 5 damage.
+test5 hits test3 for 7 damage.
+test3 Current Poison Level: 25
+test5 Current Poison Level: 25
+test3 Current Health: 23
+test5 Current Health: 33
+test3 regenerated for 5 health.
+test5 regenerated for 5 health.
+test3 Health: 28
+test5 Health: 38
+
+  Round 6:
+
+test3 hits test5 for 3 damage.
+test5 hits test3 for 5 damage.
+test3 Current Poison Level: 30
+test5 Current Poison Level: 30
+test3 Current Health: -7
+test5 Current Health: 5
+test3 regenerated for 5 health.
+test5 regenerated for 5 health.
+test3 Health: -2
+test5 Health: 10
+test3 is dead.
+test5 wins!

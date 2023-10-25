@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"FibonacciSumOfSquares","l":"calculateFibonacciSumOfSquares(int)"},{"p":"<Unnamed>","c":"FibonacciSumOfSquares","l":"FibonacciSumOfSquares()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"FibonacciSumOfSquares","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
