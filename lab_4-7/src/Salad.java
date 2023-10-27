@@ -33,4 +33,8 @@ public class Salad {
     }
     return result;
   }
+  
+  public List<Ingredient> getIngredients() {
+    return ingredients;
+}
 }
