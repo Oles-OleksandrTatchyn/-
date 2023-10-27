@@ -17,4 +17,9 @@ public class Sauce extends Ingredient {
   public String getIngredientsList() {
     return ingredientsList;
   }
+
+  @Override
+  public String getIngredientType() {
+    return "Sauce";
+  }
 }

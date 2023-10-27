@@ -36,5 +36,5 @@ public class Salad {
   
   public List<Ingredient> getIngredients() {
     return ingredients;
-}
+  }
 }
