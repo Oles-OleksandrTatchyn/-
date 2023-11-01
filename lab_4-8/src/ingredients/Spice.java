@@ -12,6 +12,10 @@ public class Spice extends Ingredient {
     return flavorProfile;
   }
 
+  public String setFlavorProfile(String flavorProfile) {
+    return this.flavorProfile = flavorProfile;
+  }
+
   @Override
   public String getIngredientType() {
     return "Spice";

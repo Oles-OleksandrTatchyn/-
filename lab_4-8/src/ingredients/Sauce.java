@@ -14,8 +14,16 @@ public class Sauce extends Ingredient {
     return spicinessLevel;
   }
 
+  public void setSpicinessLevel(int spicinessLevel) {
+    this.spicinessLevel = spicinessLevel;
+  }
+
   public String getIngredientsList() {
     return ingredientsList;
+  }
+
+  public void setIngredientsList(String ingredientsList) {
+    this.ingredientsList = ingredientsList;
   }
 
   @Override

@@ -17,6 +17,10 @@ public class Ingredient {
     return calories;
   }
 
+  public void setCalories(int calories) {
+    this.calories = calories;
+  }
+
   public String getIngredientType() {
     return "Ingredient";
   }

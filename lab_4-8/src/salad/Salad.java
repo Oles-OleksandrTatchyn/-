@@ -1,14 +1,21 @@
-import ingredients.Ingredient;
+package salad;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
+
+import ingredients.Ingredient;
 
 public class Salad {
   private List<Ingredient> ingredients = new ArrayList<>();
 
   public void addIngredient(Ingredient ingredient) {
     ingredients.add(ingredient);
+  }
+  
+  public void addIngredients(List<Ingredient> ingredients) {
+    this.ingredients.addAll(ingredients);
   }
 
   public int calculateCalories() {
