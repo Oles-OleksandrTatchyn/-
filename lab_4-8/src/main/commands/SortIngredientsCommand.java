@@ -20,6 +20,7 @@ public class SortIngredientsCommand implements Command {
     this.salad = salad;
   }
 
+
   @Override
   public void execute() {
     System.out.println("\nChoose a sorting method:");
